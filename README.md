@@ -7,4 +7,11 @@
   <i>Exemplary Target ETF Portfolio</i>
 </p>
 
-This Repository enthält eine Excel-Datei, welche in in Deutschland ansässigen Freunden erstellt, um ihr ETF-Portfolio zu pflegen, d.h. zu rebalancen oder zu entscheiden
+Um Freunden zu erleichtern, ihr ETF-Portfolio zu besparen und zu rebalancen, habe ich ich ihnen die hier zu findende Excel-Datei *Rebalancing Cockpit* erstellt, welche ich heirmit zur Inspiration für andere DIY ETF-Sparer/Investoren zur Verfügung stellen will.
+
+## Target Portfolio
+
+Zunächst muss der Nutzer seine Target Allokation bestimmmen, wobei wogende Paramater variierbar sind:
+
+- Age: Das aktuell Alter bestimmt in der Regel, sofern primär für den Lebensabend finanziell vorgesorgt wird, wie viel Zeit ein Investor mitbringt. Je mehr, desto riskanter/volatiler kann er investieren. Im hiesigen Fall separieren wir das Portfolio in einen risiko-reichen Aktien-Anteil und in einen risiko-armen Anleihen-Anteil. Mehr Risiko bedeutet somit ein höherer Aktien
+- 
