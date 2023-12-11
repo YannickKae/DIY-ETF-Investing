@@ -7,7 +7,7 @@
   <i>Exemplary Target ETF Portfolio</i>
 </p>
 
-To simplify ETF portfolio set up, management and rebalancing for friends, I created the **Rebalancing Cockpit** Excel file, which is available here. I'm sharing it to inspire other DIY ETF savers/investors for their portfolio design.
+To simplify ETF portfolio set up, management and rebalancing for friends, I created the **Rebalancing Cockpit** *Excel* file, which is available here. I'm sharing it to inspire other DIY ETF savers/investors for their portfolio design.
 
 ## Target Portfolio
 
