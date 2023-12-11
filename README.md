@@ -32,7 +32,7 @@ After setting these parameters, users get a target allocation, as illustrated ab
 
 ## Portfolio Tracking & Rebalancing
 
-Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (buying or selling) or where to allocate the new funds.
+Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (reallocation) or where to allocate the new funds.
 
 ## Information
 
