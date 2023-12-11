@@ -38,4 +38,4 @@ Users must input their total portfolio value, including new funds to be invested
 
 Additional theoretical background information about the portfolio elements is available on the second sheet of the Excel file, named *Information*.
 
-Note that this model is based on ESG products, but that's not a necessity. The allocation logic elaborated above remains the same.
+Note that this model is based on ESG products, but that's not a necessity. The allocation logic elaborated above remains the same for non-ESG products.
