@@ -22,9 +22,9 @@ $$
 The high-risk stock portion can be further diversified with two primary risk factors / return sources, if desired:
 
 - **Value Factor**: Cheaply valued companies (*value stocks*), as indicated by metrics such as the price-earnings ratio, tend to outperform highly valued companies (*growth stocks*).
-- **Momentum Factor**: Companies with recent high relative returns tend to continue outperforming for a short period, and vice versa.
+- **Momentum Factor**: Companies with recent high returns tend to continue outperforming for a short period, and vice versa.
 
-The fixed income portion can also be further diversified with longer-term bonds, slightly increasing its risk, but adding an additional source of return.
+The fixed income portion can also be further diversified with longer-term bonds, slightly increasing its risk, but adding an additional return source.
 
 - **Term Factor**: Longer-term bonds yield higher returns as investors seek a premium for inflation risks.
 
@@ -32,10 +32,10 @@ After setting these parameters, users get a target allocation, as illustrated ab
 
 ## Portfolio Tracking & Rebalancing
 
-Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. the spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (buying or selling) or where to allocate the new funds.
+Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (buying or selling) or where to allocate the new funds.
 
 ## Information
 
 Additional theoretical background information about the portfolio elements is available on the second sheet of the Excel file, named *Information*.
 
-Note that this model is based on ESG products, but that's no necessity. The allocation logic elaborated above remains the same.
+Note that this model is based on ESG products, but that's not a necessity. The allocation logic elaborated above remains the same.
