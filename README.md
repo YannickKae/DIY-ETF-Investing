@@ -19,7 +19,7 @@ $$
 \text{Equity Allocation} = \frac{100 - \text{Age}}{100}
 $$
 
-The high-risk stock portion can be further diversified with two primary risk factors / return sources, if desired:
+The high-risk equity portion can be further diversified with two primary risk factors / return sources, if desired:
 
 - **Value Factor**: Cheaply valued companies (*value stocks*), as indicated by metrics such as the price-earnings ratio, tend to outperform highly valued companies (*growth stocks*).
 - **Momentum Factor**: Companies with recent high returns tend to continue outperforming for a short period, and vice versa.
