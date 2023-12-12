@@ -19,7 +19,9 @@ $$
 \text{Equity Allocation} = \frac{100 - \text{Age}}{100}
 $$
 
-The high-risk equity portion can be further diversified with two primary risk factors / return sources, if desired:
+More professionally, the question of how volatile a portfolio can be designed is embedded in a multi-factorial optimization problem that includes liabilities, risk-aversion, capital efficiency, investment horizon, etc. As said, this is a heuristic for DIY investors.
+
+The **high-risk equity portion** can be further diversified with two primary risk factors / return sources, if desired:
 
 - **Value Factor**: Cheaply valued companies (*value stocks*), as indicated by metrics such as the price-earnings ratio, tend to outperform highly valued companies (*growth stocks*).
 - **Momentum Factor**: Companies with recent high returns tend to continue outperforming for a short period, and vice versa.
