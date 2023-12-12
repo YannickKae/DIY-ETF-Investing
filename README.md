@@ -13,7 +13,7 @@ To simplify ETF portfolio set up, management and rebalancing for friends, I crea
 
 Users first need to set their target allocation, tweaking these parameters:
 
-- **Age**: Your age implicitly dictates how much risk you can bear, especially if you're primarily saving for retirement. More time before retirement allows for riskier investments, as there's more time to recover from market downturns. In this portfolio model, the portfolio is split into a high-risk equity portion and a low-risk fixed income portion. Higher risk therefore means a larger equity allocation, computed by the following heuristic:
+- **Age**: Your age implicitly dictates how much risk you can bear, especially if you're primarily saving for retirement. More time before retirement allows for riskier investments, as there's more time to recover from market downturns. In this portfolio model, the portfolio is split into a *high-risk* equity portion and a *low-risk* fixed income portion. Higher risk therefore means a larger equity allocation, computed by the following heuristic:
 
 $$
 \text{Equity Allocation} = \frac{100 - \text{Age}}{100}
