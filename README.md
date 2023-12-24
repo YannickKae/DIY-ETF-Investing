@@ -35,9 +35,3 @@ After setting these parameters, users get a target allocation, as illustrated ab
 ## Portfolio Tracking & Rebalancing
 
 Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (reallocation) or where to allocate the new funds.
-
-## Information
-
-Additional theoretical background information about the portfolio elements is available on the second sheet of the Excel file, named *Information*.
-
-Note that this portfolio model is based on ESG products, but that's not a necessity. The allocation logic elaborated above remains the same for non-ESG products.
