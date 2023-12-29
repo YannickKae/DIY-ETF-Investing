@@ -35,3 +35,12 @@ After setting these parameters, users get a target allocation, as illustrated ab
 ## Portfolio Tracking & Rebalancing
 
 Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (reallocation) or where to allocate the new funds.
+
+## Sustainability (ESG)
+
+Users can also choose to invest sustainably, but they need to be aware of what it means:
+
+Sustainable investing, also known as ESG (Environmental, Social, Governance) investing, is influencing the dynamics of corporate investment. The main principle is that ESG-conscious investors avoid *sinful* companies, i.e. those with poor environmental, social and governance performance. As a result, these companies must offer higher expected returns to attract investors, increasing their cost of capital.
+The increased cost of capital means that fewer of these companies' investment projects will have a positive net present value (NPV), which in turn means that fewer environmentally harmful or socially irresponsible projects will be realized. This is the desired effect of sustainable investing: to reduce harmful corporate activities through financial mechanisms.
+
+For users who choose ESG, this means accepting potentially lower returns compared to investing in *sinful* companies. Otherwise, there would be no real economic effect.
