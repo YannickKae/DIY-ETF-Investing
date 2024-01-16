@@ -46,7 +46,11 @@ Users must input their total portfolio value, including new funds to be invested
 
 Users can also choose to invest sustainably, but they need to be aware of what it means:
 
-Sustainable investing, also known as ESG (Environmental, Social, Governance) investing, is supposed to affect corporate investment decisions. The main principle is that ESG-conscious investors avoid *sinful* companies, i.e. those with poor environmental, social and governance performance. As a result, these companies must offer higher expected returns to attract investors, increasing their cost of capital.
-The increased cost of capital means that fewer of these companies' investment projects will have a positive net present value (NPV), which in turn means that fewer environmentally harmful or socially irresponsible projects will be realized. This is the desired effect of sustainable investing: to reduce harmful corporate activities through financial mechanisms.
+Sustainable investing, also known as ESG (Environmental, Social, Governance) investing, is supposed to affect corporate investment decisions. If ESG-conscious investors avoiding *sinful* companies, i.e. those with poor environmental, social and governance performance, those companies must offer apremium, i.e. higher expected returns to attract investors, increasing their cost of capital.
+The increased cost of capital means that fewer of these companies' investments will have a positive net present value (NPV), which in turn means that fewer environmentally harmful or socially irresponsible projects will be realized. This is the desired effect of sustainable investing. More in this [here](https://www.aqr.com/Insights/Perspectives/Virtue-is-its-Own-Reward-Or-One-Mans-Ceiling-is-Another-Mans-Floor).
 
-For users who choose ESG, this means accepting potentially lower returns compared to investing in *sinful* companies. Otherwise, there would be no real economic effect.
+For users who choose ESG, this means accepting potentially lower returns compared to investing in *sinful* companies. Otherwise, there would be no real economic effect. Doing well by doing good is unfortunately not possible.
+
+## Recommendations for Self-Education
+
+Although I sometimes find the somewhat snarky tone annoying, the [books by *Dr. Gerd Kommer*](https://gerd-kommer.de/buecher/) (German) or others on **ETFs** are highly recommended. Before reading any other book on finance, one should first familiarize oneself with passive investing, as it not only provides a good foundation from which to explore other topics, but also instills a healthy skepticism from the beginning, which is necessary in the investment industry.
