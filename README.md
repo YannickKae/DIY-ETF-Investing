@@ -21,7 +21,7 @@ $$
 \text{Equity Allocation} = \frac{100 - \text{Age}}{100}
 $$
 
-More professionally, the question of how volatile a portfolio can be designed is embedded in a multi-factorial optimization problem that includes long-term liabilities, short-term liquidity, investment horizon & risk contraints. As said above, this is a heuristic for DIY investors.
+More professionally, the question of how volatile a portfolio can be designed is embedded in a multi-factorial optimization problem that includes long-term liabilities, short-term liquidity, investment horizon, risk contraints and personal utility function. As said above, this is a heuristic for DIY investors.
 
 ### Level 2 Allocation
 
