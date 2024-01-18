@@ -1,10 +1,10 @@
 # DIY ETF Investing
 
 <p align="center">
-  <img src="Target Portfolio.png" alt="Replication of the DAX with global Smart Beta / Factor ETFs" style="width:100%">
+  <img src="Asset Structure.png" alt="Top-down Asset Allocation" style="width:100%">
 </p>
 <p align="center">
-  <i>Exemplary Target ETF Portfolio</i>
+  <i>Top-down Asset Allocation</i>
 </p>
 
 To simplify ETF portfolio set up, management and rebalancing for friends, I created the **Rebalancing Cockpit** *Excel* file, which is available here. I'm sharing it to inspire other DIY ETF savers/investors for their portfolio design.
@@ -36,13 +36,13 @@ The fixed income portion can also be further diversified with longer-term bonds,
 
 Since these additional risk factors / sources of return carry their own volatility and may temporarily underperform the broad market over several years, it is advisable to add them only as satellites, say 20% of their respective portfolio part, to avoid [*tracking error regret*](https://www.core-wm.com/2019/08/01/what-is-tracking-error-regret/).
 
-After setting these parameters, users get a target allocation, as illustrated above.
+After setting these parameters, users get a target allocation, as illustrated below.
 
 <p align="center">
-  <img src="Asset Structure.png" alt="Top-down Asset Allocation" style="width:100%">
+  <img src="Target Portfolio.png" alt="Replication of the DAX with global Smart Beta / Factor ETFs" style="width:100%">
 </p>
 <p align="center">
-  <i>Top-down Asset Allocation</i>
+  <i>Exemplary Target ETF Portfolio</i>
 </p>
 
 ## Portfolio Tracking & Rebalancing
