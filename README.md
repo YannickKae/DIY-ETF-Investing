@@ -38,6 +38,13 @@ Since these additional risk factors / sources of return carry their own volatili
 
 After setting these parameters, users get a target allocation, as illustrated above.
 
+<p align="center">
+  <img src="Asset Structure.png" alt="Top-down Asset Allocation" style="width:100%">
+</p>
+<p align="center">
+  <i>Top-down Asset Allocation</i>
+</p>
+
 ## Portfolio Tracking & Rebalancing
 
 Users must input their total portfolio value, including new funds to be invested, and the amounts invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing (reallocation) or where to allocate the new funds.
