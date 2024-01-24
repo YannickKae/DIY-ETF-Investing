@@ -53,7 +53,7 @@ Users must input their total portfolio value, including new funds to be invested
 
 Users can also choose to invest sustainably, but they need to be aware of what it means:
 
-Sustainable investing, also known as ESG (Environmental, Social, Governance) investing, is supposed to affect corporate investment decisions. If ESG-conscious investors avoid *sinful* companies, i.e. those with poor environmental, social and governance performance, those companies must offer apremium, i.e. higher expected returns to attract investors, increasing their cost of capital.
+Sustainable investing, also known as ESG (Environmental, Social, Governance) investing, is supposed to affect corporate investment decisions. If ESG-conscious investors avoid *sinful* companies, i.e. those with poor environmental, social and governance performance, those companies must offer a premium, i.e. higher expected returns to attract investors, increasing their cost of capital.
 The increased cost of capital means that fewer of these companies' investments will have a positive net present value (NPV), which in turn means that fewer environmentally harmful or socially irresponsible projects will be realized. This is the desired effect of sustainable investing.
 
 More on this [here](https://www.aqr.com/Insights/Perspectives/Virtue-is-its-Own-Reward-Or-One-Mans-Ceiling-is-Another-Mans-Floor).
