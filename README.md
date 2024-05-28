@@ -64,4 +64,4 @@ For users who choose **ESG**, this means accepting potentially lower returns com
 
 To get more insight, I recommend the [books by *Dr. Gerd Kommer*](https://gerd-kommer.de/buecher/) (German) or [*The Little Book of Common Sense Investing*](https://en.wikipedia.org/wiki/The_Little_Book_of_Common_Sense_Investing) by John Bogle, the father of Indexing himself.
 
-In my opinion: Before reading any other book on finance, one should first familiarize oneself with passive investing, as it not only provides a good anchor & foundation from which to explore further topics, but also instills a healthy skepticism right from the beginning, which is really necessary in the (retail) investment business.
+In my opinion: Before reading any other book on finance, one should first familiarize oneself with passive investing, as it not only provides a good anchor & foundation from which to explore further topics, but also instills a healthy skepticism right from the beginning, which is really necessary in the retail investment business.
