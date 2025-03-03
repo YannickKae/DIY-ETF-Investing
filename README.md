@@ -34,7 +34,7 @@ The fixed income portion can also be diversified with longer-term bonds, slightl
 
 - **Term Factor**: Longer-term bonds yield higher returns as investors seek a premium for inflation risks.
 
-Since these additional risk factors carry their own volatility and may temporarily underperform the broad market over several years, it's advisable to add them only as satellites—say, 20% of their respective portfolio part—to avoid [*tracking error regret*](https://www.core-wm.com/2019/08/01/what-is-tracking-error-regret/).
+Since these additional risk factors carry their own volatility and may temporarily underperform the broad market over several years, it's reasonable to add them only as satellites—say, 20% of their respective portfolio part—to avoid [*tracking error regret*](https://www.core-wm.com/2019/08/01/what-is-tracking-error-regret/).
 
 After setting these parameters, users will obtain a target allocation, as illustrated below.
 
