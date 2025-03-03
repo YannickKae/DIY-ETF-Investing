@@ -21,7 +21,7 @@ $$
 \text{Equity Allocation} = \frac{100 - \text{Age}}{100}
 $$
 
-In a more professional context, determining the appropriate portfolio volatility involves a multifactorial optimization problem that includes long-term liabilities, short-term liquidity needs, investment horizon, risk constraints, and personal utility functions. As mentioned above, this is a heuristic for DIY investors.
+In a more professional context, determining the appropriate equity allocation involves a multifactorial optimization problem that includes long-term liabilities, short-term liquidity needs, risk constraints, and personal utility functions. As mentioned above, this is a heuristic for DIY investors.
 
 ### Level 2 Allocation
 
