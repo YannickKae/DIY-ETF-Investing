@@ -45,6 +45,18 @@ After setting these parameters, users will obtain a target allocation, as illust
   <i>Exemplary Target ETF Portfolio</i>
 </p>
 
+### Possible Indices
+
+The following indices are just possible suggestions, and – especially for the fixed-income part – there are many possibilities, such as varying the bond maturity for both the Beta and the term components. For instance, some investors prefer to have no term risk at all in the fixed-income beta component of their portfolio, limiting the maturity to a maximum of e.g. three years. For the equity part, the possibilities are much narrower. However, as there is no unique definition for ESG, investors who decide to invest this way face many possibilities for every part of their portfolio.
+
+| Portfolio Component | non ESG                               | ESG                                                                    |
+|---------------------|---------------------------------------|------------------------------------------------------------------------|
+| Equity - Beta       | MSCI ACWI IMI Index                   | MSCI ACWI Select Screened Index                                        |
+| Equity - Value      | MSCI World Value Index                | MSCI World Value Low Carbon SRI Screened Select Index                  |
+| Equity - Momentum   | MSCI World Momentum Index             | MSCI World Momentum Low Carbon SRI Screened Select Index               |
+| Fixed Income - Beta | Bloomberg Global Aggregate Bond Index | Bloomberg MSCI Global Green Bond 1-10 Year Sustainability Select Index |
+| Fixed Income - Term | iBoxx® EUR Eurozone 25+ Index         | J.P. Morgan ESG EMU Government Bond IG 10+ Year Index                  |
+
 ## Portfolio Tracking & Rebalancing
 
 Users must input their total portfolio value, including new funds to be invested, and the amounts already invested in each ETF from their target allocation. The spreadsheet then identifies over- or under-investments in each ETF, aiding decisions on rebalancing or where to allocate the new funds.
