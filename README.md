@@ -45,7 +45,7 @@ After setting these parameters, users will obtain a target allocation, as illust
   <i>Exemplary Target ETF Portfolio</i>
 </p>
 
-### Possible Indices
+## Possible Indices
 
 The following indices are just possible suggestions, and – especially for the fixed-income part – there are many possibilities, such as varying the bond maturity for both the Beta and the term components. For instance, a lot of investors prefer to have no term risk at all in the fixed-income beta component, limiting the maturity to a maximum of e.g. three years. Additionally, Investors might also want to avoid foreign exchange and credit risk there. For the equity part, the possibilities are much narrower. However, as there is no unique definition for ESG, investors who decide to invest this way face many possibilities, for every part of their portfolio.
 
