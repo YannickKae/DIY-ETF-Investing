@@ -71,7 +71,7 @@ The increased cost of capital means that fewer of these companies' investments w
 
 You can read more about this [here](https://www.aqr.com/Insights/Perspectives/Virtue-is-its-Own-Reward-Or-One-Mans-Ceiling-is-Another-Mans-Floor).
 
-For users who choose **ESG**, this means accepting potentially lower returns compared to also investing in *sinful* companies. Otherwise, there would be no real economic effect. Unfortunately, doing well by doing good is not always possible.
+For users who choose **ESG**, this means accepting potentially lower returns compared to also investing in *sinful* companies. Otherwise, there would be no real economic effect. Unfortunately, doing well by doing good is not possible.
 
 ## Recommendations for Self-Education
 
